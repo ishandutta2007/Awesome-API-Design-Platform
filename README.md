@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Awesome API Design Platforms Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Awesome API Design Platforms Banner" width="100%" />
 
   <h1>🚀 Awesome API Design Platform</h1>
   <p><strong>A comprehensive, curated index of top API design platforms, OpenAPI editors, API mock servers, interactive documentation portals, API testing clients, and open-source development stacks.</strong></p>
